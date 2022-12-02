@@ -3,7 +3,9 @@
 # Objectives
 
 * To measure whether and to what extent each shopper is intereseted in each product in offline stores.
+  - For example, 
 
+![](./assets/shopper-example.jpg)
 
 ## Motion Heatmap without Object Detection (OpenCV)
 
