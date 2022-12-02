@@ -1,6 +1,6 @@
 # video-tutorial
 
-# Objectives
+## Objectives
 
 * To measure whether and to what extent each shopper is intereseted in each product in offline stores.
   - For example, we can observe that Grace spent 40 seconds in front of a metal basket, picked it up and put it down twice; ultimately, inferring that she is interested in the product to the extent of 80 out of 100.  
