@@ -12,7 +12,7 @@
 * Intel-IoT-DevKit. (2018). [Motion Heatmap](https://github.com/intel-iot-devkit/python-cv-samples/tree/master/examples/motion-heatmap)
 * Roberto. (2020). [Motion Heatmap OpenCV](https://github.com/robertosannazzaro/motion-heatmap-opencv)
 
-* pyimagesearch. (2018). [OpenCV People Counter](https://pyimagesearch.com/2018/08/13/opencv-people-counter/)
+* PyImageSearch. (2018). [OpenCV People Counter](https://pyimagesearch.com/2018/08/13/opencv-people-counter/)
 
 
 ## YOLO v5
