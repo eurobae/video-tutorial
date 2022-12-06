@@ -1,8 +1,9 @@
 # mac
 .DS_Store
 
-# yolo.h5
+# yolo
 yolo.h5
+yolov3.weights
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
