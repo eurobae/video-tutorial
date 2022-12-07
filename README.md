@@ -7,20 +7,13 @@
     ![](./assets/shopper-example.JPG)
 
 
-## Motion Heatmap and Object Detection (OpenCV)
-
-* Intel-IoT-DevKit. (2018). [Motion Heatmap](https://github.com/intel-iot-devkit/python-cv-samples/tree/master/examples/motion-heatmap)
-* Roberto. (2020). [Motion Heatmap OpenCV](https://github.com/robertosannazzaro/motion-heatmap-opencv)
+## Object Detection and Tracking
 
 * PyImageSearch. (2018). [OpenCV People Counter](https://pyimagesearch.com/2018/08/13/opencv-people-counter/)
 * 봉식이누나. (2020). [OpenCV를 사용하여 YOLO Object detection](https://bong-sik.tistory.com/16)
-
+* jinmc. (2021). [Multi Object Tracking과 활용](https://walkaroundthedevelop.tistory.com/74)
+* Yukai Yang. (2020). [FastMOT](https://github.com/GeekAlexis/FastMOT)
 
 ## YOLO v5
 
 * Ultralytics. [Official Documents](https://github.com/ultralytics/yolov5)
-
-
-## Multi Object Tracking (MOT)
-
-* jinmc. (2021). [Multi Object Tracking과 활용](https://walkaroundthedevelop.tistory.com/74)
